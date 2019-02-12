@@ -1,6 +1,8 @@
 ## Project Description
 This is a small project to learn the basis on react, better understanding of class vs. functional components, state and lifecycle methods, and how to split your UI into reusable and composable components. This code is made following the [teamtreehouse.com course](https://teamtreehouse.com/library/react-components)
 
+<img src="doc/image-scoreboard.png" />
+
 ## Components description
 
 - App: the main component and one of the few with state. I tried to mantein all the state and logic in App component.
