@@ -1,7 +1,12 @@
 ## Project Description
+
 This is a small project to learn the basis on react, better understanding of class vs. functional components, state and lifecycle methods, and how to split your UI into reusable and composable components. This code is made following the [teamtreehouse.com course](https://teamtreehouse.com/library/react-components)
 
-<img src="doc/image-scoreboard.png" />
+<img src="doc/image-scoreboard.png" /><br/><br/>
+
+## [Live App](https://nicopixel-scoreboard.netlify.app/)
+
+<br/>
 
 ## Components description
 
@@ -13,5 +18,3 @@ This is a small project to learn the basis on react, better understanding of cla
 - Player: component to group the counter and the Icon Component.
 - Stats: show the total number of stats
 - Timer: component with state to show a mini timer with start and reset buttons.
-
-
