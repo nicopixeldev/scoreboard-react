@@ -1,5 +1,11 @@
 # Mini Project: React Scoreboard
 
+<img src="doc/image-scoreboard.png" /><br/><br/>
+
+## [Live App](https://scoreboard-react-l3hgpcphy-nicopixels-projects.vercel.app/)
+
+__________
+
 ## Why this Project?
 
 This project is a simple, quick experiment aimed at solidifying the foundational knowledge of React. It's perfect for trying out new concepts or testing ideas in a controlled, small-scale environment. The use of class components in this project helps understand React's older component model and lifecycle methods, which is still relevant for maintaining and working with legacy React applications.
@@ -21,11 +27,6 @@ This is a small, quick project aimed at experimenting or prototyping new ideas u
 
 This project uses **React class components** to demonstrate the fundamental concepts of React development. It also serves as a simple and effective way to dive deeper into React's state management and component interaction.
 
-<img src="doc/image-scoreboard.png" /><br/><br/>
-
-## [Live App](https://scoreboard-react-l3hgpcphy-nicopixels-projects.vercel.app/)
-
-<br/>
 
 ## Components Description
 
